@@ -10,10 +10,7 @@ Este projeto é uma calculadora simples feita em Python, que permite realizar as
 - Divisão (`a / b`) com tratamento de divisão por zero
 
 ## 📚 O que aprendi com este projeto
-Entrada de dados com input()
-
-Conversão de tipos (float)
-
-Funções e organização de código
-
-Condições if/elif/else
+- Entrada de dados com input()
+- Conversão de tipos (float)
+- Funções e organização de código
+- Condições if/elif/else
